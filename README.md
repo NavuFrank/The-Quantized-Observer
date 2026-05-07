@@ -146,7 +146,7 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍🔬 About the Author
 
-**Naveen**  
+**Naveen navu**  
 *Lead Researcher & Theoretical Physicist*  
 Founder, **Quantum Radio Framework/The Quantized Observer**  
 Theoretical Physics & Cognitive Science  
